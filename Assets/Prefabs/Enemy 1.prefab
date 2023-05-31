@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8287501763343700054}
   - component: {fileID: 6526136062582098072}
-  - component: {fileID: 7858194472694977322}
   m_Layer: 0
   m_Name: enemyBlack1
   m_TagString: Untagged
@@ -85,18 +84,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7858194472694977322
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5902968022217851588}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 66078e998db37e042ae991a2e8c9b9e8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &7659417835200450988
 GameObject:
   m_ObjectHideFlags: 0
